@@ -1,5 +1,14 @@
-# NBE3-4-2-Team12
-데브코스 3기 4회차 2차프로젝트 12팀
+# MOYODANG 모임 구인 사이트
+MOYODANG은 소모임 인원을 구하는 웹사이트입니다.
+유저가 카카오 소셜 로그인을 통해 로그인하여 모임을 생섣하거나 참가할 수 있고 모임원 모집이 마감되면 투표를 통해 모임 장소를 설정하고 카카오 지도 API를 이용하여 지도에 마커를 생성하도록 개발하였습니다.
+
+# 주요기능
+- 카카오 소셜 로그인
+- 모임 생성/수정/삭제/참가/조회/맴버가 소속된 그룹 조회
+- 투표 생성/수정/삭제/조회/참가/투표 항목 추가
+- 카테고리 생성/수정/삭제/조회
+- 카카오 지도 API
+- 관리자 페이지지
 
 # Git 협업 가이드라인
 
@@ -153,6 +162,19 @@ IntelliJ IDEA에서는 다음 기능들을 활용할 수 있습니다:
 3. 충돌 해결
    - Merge 충돌 발생 시 시각적 도구 제공
    - 좌측/우측/병합 결과를 쉽게 비교 가능
+   - 
+#PPT
+![4](https://github.com/user-attachments/assets/f1de8308-12e3-42d1-bb92-723566959612)
+![5](https://github.com/user-attachments/assets/8721b7fe-441b-45d1-9c93-c5740f941c75)
+![7](https://github.com/user-attachments/assets/11d15900-d594-4ed2-96b3-ea43bfbdecaf)
+![8](https://github.com/user-attachments/assets/5ea3add5-8bdd-4b94-9bc0-a0b93d007af1)
+![9](https://github.com/user-attachments/assets/c6c7d5be-04cc-4226-93b1-68c191f34e18)
+![10](https://github.com/user-attachments/assets/3999fc8a-2cbc-4301-ad93-01c409b0dc6c)
+![12](https://github.com/user-attachments/assets/1cc0ea1d-2eef-438e-a56a-13f178a675ae)
+![13](https://github.com/user-attachments/assets/5fbeea2e-64a5-45b0-9aa9-669462a900d0)
+![14](https://github.com/user-attachments/assets/e8d49c51-836f-40c1-a465-38aaee26813f)
+![15](https://github.com/user-attachments/assets/f4201498-8f15-4f27-888f-58c544bf82bf)
 
+https://github.com/user-attachments/assets/7799b38f-9c4f-4763-86cc-141002e8649c
 
 
